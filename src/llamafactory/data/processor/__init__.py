@@ -27,5 +27,6 @@ __all__ = [
     "PairwiseDatasetProcessor",
     "PretrainDatasetProcessor",
     "SupervisedDatasetProcessor",
+    "COTRAFTDatasetProcessor",
     "UnsupervisedDatasetProcessor",
 ]
